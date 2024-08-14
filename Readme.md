@@ -1,7 +1,6 @@
 # Library Management System
 
-This is a library management system built for odoo combat by Devarsya shah and Hrishikesh Singh
-
+This is a library management system built for odoo combat 
 
 This project is built with :
 
